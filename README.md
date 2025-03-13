@@ -37,12 +37,12 @@
 
 ### Quick Stats:  
 
-<a href="https://github.com/adityasharma-tech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma-tech&theme=dark&hide=TCL" />
+<a href="https://github.com/rambhardwajj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambahrdwajj&theme=dark&hide=TCL" />
 </a>
 
-<a href="https://github.com/adityasharma-tech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasharma-tech&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Aditya's github stats"/>
+<a href="https://github.com/rambhardwajj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rambahrdwajj&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Aditya's github stats"/>
 </a>
 
 <br/>
