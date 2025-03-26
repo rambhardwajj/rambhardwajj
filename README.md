@@ -9,7 +9,6 @@
 - 👯 I’m open to collaborate.
 - 📫 How to reach me: <!--[hey@adityasharma.live](mailto:hey@adityasharma.live), [LinkedIn](https://linkedin.com/in/adityasharmatech) -->
 - 😎 Here's my portfolio  <!--  [adityasharma.live](https://www.adityasharma.live/) -->
-- ⚡ I love ironman.
 
 <br/>
 
@@ -70,6 +69,6 @@
 
 <div align="center">
 
-  ### 😄 All my repos are private.
+  ### 😄 Thanks for visiting.
 
 </div>
