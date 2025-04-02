@@ -4,11 +4,11 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+an+hybrid+app+developer.;I+am+a+web+developer.;)](https://git.io/typing-svg) -->
 
-- 🔭 Checkout one of my best backend project <!-- [ScalableNotificationSystem](https://github.com/adityasharma-tech/ScalableNotificationSystem.git) -->
-- 🎯 And the best hybrid android/ios app I build is a full Chat Application is <!--[QuickChat](https://github.com/adityasharma-tech/QuickChat-Application.git) -->
+<!-- - 🔭 Checkout one of my best backend project  [ScalableNotificationSystem](https://github.com/adityasharma-tech/ScalableNotificationSystem.git) -->
+<!-- - 🎯 And the best hybrid android/ios app I build is a full Chat Application is [QuickChat](https://github.com/adityasharma-tech/QuickChat-Application.git) -->
 - 👯 I’m open to collaborate.
-- 📫 How to reach me: <!--[hey@adityasharma.live](mailto:hey@adityasharma.live), [LinkedIn](https://linkedin.com/in/adityasharmatech) -->
-- 😎 Here's my portfolio  <!--  [adityasharma.live](https://www.adityasharma.live/) -->
+- 📫 How to reach me: rambhardwaj101000@gmail.com <!--[hey@adityasharma.live](mailto:hey@adityasharma.live), [LinkedIn](https://linkedin.com/in/adityasharmatech) -->
+<!-- - 😎 Here's my portfolio    [adityasharma.live](https://www.adityasharma.live/) -->
 
 <br/>
 
