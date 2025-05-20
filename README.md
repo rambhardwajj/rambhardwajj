@@ -17,8 +17,6 @@
 [![GitHub AdityaSharma](https://img.shields.io/github/followers/AdityaSharma?label=follow&style=social)](https://github.com/adityasharma-tech)
 [![website](https://img.shields.io/badge/Portfolio_Website-adityasharma.live-2648ff?style=flat-square&logo=google-chrome)](https://adityasharma.live/) -->
 
-<br/>
-
 ### Skills and Tools: &nbsp; <img alt="Aditya's skills" width="26px" height="26px" src="assets/skills.gif" /> 
 <p float="left">
   <img height="28" src="assets/python.svg"> &nbsp;
