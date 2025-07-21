@@ -21,8 +21,8 @@
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="20" height="20">&nbsp; Hi, there!
 
-- I'm **Ram Bhardwaj**, a **Full Stack Developer** from India who enjoys building clean, scalable web applications.
-- Currently working on **MERN Stack** projects and exploring the world of **AWS**.
+- I'm **Ram Bhardwaj**, a **Full Stack Developer** from India who enjoys building clean, I currently works at Ciena.
+- Currently working on **Web Based** projects and exploring the world of **Cloud**.
 - Tinkering with **queues**, **pub/sub messaging**, and diving deeper into **Next.js**.
 - Happy to meet amazing people and grow together through collaboration and community.
 
