@@ -1,9 +1,11 @@
 
 <!-- Social Links -->
 <div align= center>
+  
 [![X Badge](https://img.shields.io/badge/-@ram_1010-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://x.com/ram_1010)](https://x.com/ram_1010) &nbsp;&nbsp; 
 [![Linkedin Badge](https://img.shields.io/badge/@bhardwajram-0e76a8)](https://www.linkedin.com/in/bhardwajram/) &nbsp;&nbsp; 
 [![Mail Badge](https://img.shields.io/badge/-rambhardwaj101000@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:rambhardwaj101000@gmail.com)
+
 </div>
 <!-- Profile View Counter -->
 <div align="center">
